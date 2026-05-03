@@ -1,4 +1,4 @@
-# Hola, soy Tomás Giraldo 👋
+# Hola, soy Tomás Giraldo 
 
 **Desarrollador de Software & Creador de SaaS | Estudiante de Ciencias de la Computación (UNAL)**
 
