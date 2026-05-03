@@ -1,11 +1,12 @@
-# Hola, soy Tomás Giraldo 
+# Hola, soy Tomás Giraldo 👋
 
 **Desarrollador de Software & Creador de SaaS | Estudiante de Ciencias de la Computación (UNAL)**
 
 Me especializo en construir aplicaciones web completas (Full-Stack) enfocadas en resolver problemas reales de negocios tradicionales. Transformo el caos administrativo (como inventarios en decenas de Excels) en plataformas escalables, rápidas y fáciles de usar.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasgiraldo)
-[![Email](https://img.shields.io/badge/Email-thgiraldoa@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thgiraldoa@unal.edu.co)
+[![Email Personal](https://img.shields.io/badge/Email-thomasga0512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasga0512@gmail.com)
+[![Email Académico](https://img.shields.io/badge/UNAL-thgiraldoa@unal.edu.co-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thgiraldoa@unal.edu.co)
 
 ### 🚀 ¿En qué estoy trabajando?
 - 💻 Desarrollando **SaaS B2B** con arquitectura Multi-Tenant.
