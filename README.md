@@ -1,4 +1,4 @@
-# Hi, I'm Tomás Giraldo 👋
+# Hi, I'm Tomás Giraldo 
 
 **Software Developer & SaaS Founder | Computer Science Student (UNAL)**
 
